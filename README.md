@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=min9yu98&show_icons=true&theme=prussian)  
   
   
-🛠기술🛠  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+
