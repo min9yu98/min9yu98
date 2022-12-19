@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Git-brightgreen.svg?&style=flat&logo=git&logoColor=white"/>
 </div>
 <br/>
