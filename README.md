@@ -1,5 +1,7 @@
 <h1 align="center">안녕하세요! 김민규 입니다. 👋</h1>
-
+<div align="center">
+  안녕하세요! 항상 주어진바 최선을 다하는 개발자입니다!
+</div>
 <!--
 **min9yu98/min9yu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
