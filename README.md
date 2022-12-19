@@ -1,24 +1,14 @@
-<h1 align="center">안녕하세요! 김민규 입니다. 👋</h1>
-<div align="center">
-  안녕하세요! 항상 주어진바 최선을 다하는 개발자입니다!
-</div>
+<h1>안녕하세요! 김민규 입니다. 👋</h1>
+<p>
+안녕하세요! 항상 주어진바 최선을 다하는 개발자입니다!
+</p>
+
+![MinGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=min9yu98&show_icons=true&theme=dokyonight)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingyu9811cpp)](https://solved.ac/mingyu9811cpp/)
+ -->
 <br/>
-<br/>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=min9yu98&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=min9yu98&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=min9yu98&show_icons=true" />
-</picture>
-<br/>
-<br/>
-<div align="center">
-  <h2 align="center">🛠 Tech Stacks 🛠</h2>
+<div>
+  <h3>🛠 Tech Stacks 🛠</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Java-6666CC?style=flat&logo=Java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> 
@@ -28,17 +18,15 @@
   <img src="https://img.shields.io/badge/Git-brightgreen.svg?&style=flat&logo=git&logoColor=white"/>
 </div>
 <br/>
-<br/>
-<div align="center">
-  <h2 align="center">🛠 Cowork Tools 🛠</h2>
+<div>
+  <h3>🛠 Cowork Tools 🛠</h3>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 </div>
 <br/>
-<br/>
-<div align="center">
- <h2 align="center">💫 Experience 💫</h2>
+<div>
+ <h3>💫 Experience 💫</h3>
  
   |Organization|Activity|Date|
   |:---:|:---:|:---:|
