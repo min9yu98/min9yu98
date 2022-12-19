@@ -17,13 +17,18 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Git-brightgreen.svg?&style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonAWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonEC2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat&logo=amazonRDS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazonS3&logoColor=white"/>
 </div>
 <br/>
 <div>
-  <h3>🛠 Cowork Tools 🛠</h3>
+  <h3>🤝 Cowork Tools 🛠</h3>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
 </div>
 <br/>
 <div>
