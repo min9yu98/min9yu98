@@ -2,7 +2,8 @@
 <div align="center">
   안녕하세요! 항상 주어진바 최선을 다하는 개발자입니다!
 </div>
-
+<br/>
+<br/>
 <!--
 **min9yu98/min9yu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=min9yu98&show_icons=true&theme=prussian)  
+</center>
 <br/>
 <br/>
 <div align="center">
