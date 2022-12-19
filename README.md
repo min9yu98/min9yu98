@@ -1,4 +1,4 @@
-### 안녕하세요! 김민규 입니다. 👋
+<h1 align="center">안녕하세요! 김민규 입니다. 👋</h1>
 
 <!--
 **min9yu98/min9yu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=min9yu98&show_icons=true&theme=prussian)  
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=min9yu98&show_icons=true&theme=prussian)  
+</div>
+<br/>
+<br/>
 <div align="center">
   <h2 align="center">🛠 Tech Stacks 🛠</h2>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-6666CC?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Git-brightgreen.svg?&style=flat&logo=git&logoColor=white"/>
