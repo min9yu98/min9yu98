@@ -2,7 +2,7 @@
 
 <h1>안녕하세요! 김민규 입니다. 👋</h1>
 <p>
-안녕하세요! 항상 주어진바 최선을 다하는 개발자입니다!
+항상 주어진바 최선을 다하는 개발자입니다!
 </p>
 
 ![MinGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=min9yu98&show_icons=true&theme=dokyonight)
