@@ -5,7 +5,8 @@
 항상 주어진바 최선을 다하는 개발자입니다!
 </p>
 
-![MinGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=min9yu98&show_icons=true&theme=dokyonight)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingyu9811cpp)](https://solved.ac/mingyu9811cpp/)
+![MinGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=min9yu98&show_icons=true&theme=dokyonight)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingyu9811cpp)](https://solved.ac/mingyu9811cpp/) -->
 
 <div>
   <h3>🛠 Tech Stacks 🛠</h3>
