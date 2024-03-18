@@ -40,5 +40,6 @@
   |University Makeus Challenge 3기(소프트 스퀘어드)|Spring 스터디 활동|2022.8 ~ 2023.2|
   |라이징 캠프 S-Mentoring(소프트 스퀘어드)|Server 11기 온라인 멘토|2022.10 ~ 2022.12|
   |University Makeus Challenge 4기(소프트 스퀘어드)|Spring 스터디 활동|2023.3 ~ 2023.8|
+  |가톨릭대학교 졸업|컴퓨터정보공학부 전공|2018.3 ~ 2024.2|
  
 </div>
