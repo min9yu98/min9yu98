@@ -1,9 +1,6 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=CCFFCC&height=300&section=header&text=MinGyu's%20GitHub&fontSize=70" /> -->
 
 <h1>안녕하세요! 김민규 입니다. 👋</h1>
-<p>
-항상 주어진바 최선을 다하는 개발자입니다!
-</p>
 
 ![MinGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=min9yu98&show_icons=true&theme=dokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingyu9811)](https://solved.ac/mingyu9811/)
