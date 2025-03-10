@@ -11,8 +11,7 @@
  
   |Organization|Activity|Date|
   |:---:|:---:|:---:|
-  |SK M&Service|이커머스 개발팀 |2025.3 ~ |
-  |SK M&Service|이커머스 개발팀 (인턴)|2025.1 ~ 2025.2|
+  |SK M&Service|커머스 개발팀|2025.1 ~ |
   |SW 마에스트로 15기|Java Spring 백엔드|2024.4 ~ 2024.12|
   |가톨릭대학교|컴퓨터정보공학부 전공 졸업|2018.3 ~ 2024.2|
   |소프트 스퀘어드|University Makeus Challenge 3, 4기 - Server 파트|2022.8 ~ 2023.8|
