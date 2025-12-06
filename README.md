@@ -2,7 +2,6 @@
 
 <h1>안녕하세요! 김민규 입니다. 👋</h1>
 
-![MinGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=min9yu98&show_icons=true&theme=dokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingyu9811)](https://solved.ac/mingyu9811/)
 
 <br/>
