@@ -3,6 +3,7 @@
 <h1>안녕하세요! 김민규 입니다. 👋</h1>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingyu9811)](https://solved.ac/mingyu9811/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyujava)](https://solved.ac/gyujava/)
 
 <br/>
 <div>
