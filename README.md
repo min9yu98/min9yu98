@@ -1,11 +1,6 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=CCFFCC&height=300&section=header&text=MinGyu's%20GitHub&fontSize=70" /> -->
 
 <h1>안녕하세요! 김민규 입니다. 👋</h1>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingyu9811)](https://solved.ac/mingyu9811/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyujava)](https://solved.ac/gyujava/)
-
-<br/>
 <div>
  <h3>💫 Experience 💫</h3>
  
